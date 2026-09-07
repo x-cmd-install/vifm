@@ -5,13 +5,13 @@ about:
   head: 1c84bda
   archived: false
   latestVersion: "v0.14.4"
-  collectedAt: 2026-09-07T05:01:55Z
+  collectedAt: 2026-09-07T19:21:28Z
 timeline:
   created: 2009-01-21
   lastCommit: 2026-09-04
   lastRelease: 2026-05-31
 popularity:
-  star: 3262
+  star: 3263
   watcher: 48
   fork: 145
   release: 35
@@ -87,7 +87,7 @@ total:
   commit: 13891
 ---
 path: /home/runner/.x-repo/github.com/vifm/vifm
-collectedAt: 2026-09-07T05:02:07Z
+collectedAt: 2026-09-07T19:21:38Z
 loc:
   C:
     code: 172072
@@ -282,7 +282,7 @@ checks:
       - 'Warn: no security file to analyze'
 ---
 eget:
-  collectedAt: 2026-09-07T05:02:08+00:00
+  collectedAt: 2026-09-07T19:21:38+00:00
   platform:
     darwin/arm64:
       name:  null
