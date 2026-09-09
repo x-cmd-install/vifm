@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.14.4"
   latestRelease: "v0.14.4"
   latestPrerelease: "v0.14-beta"
-  collectedAt: 2026-09-09T05:21:55Z
+  collectedAt: 2026-09-09T19:23:22Z
 timeline:
   created: 2009-01-21
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-31
   lastPrerelease: 2025-01-19
 popularity:
-  star: 3263
+  star: 3264
   watcher: 48
   fork: 146
   release: 35
@@ -91,7 +91,7 @@ total:
   commit: 13895
 ---
 path: /home/runner/.x-repo/github.com/vifm/vifm
-collectedAt: 2026-09-09T05:22:04Z
+collectedAt: 2026-09-09T19:23:35Z
 loc:
   C:
     code: 172108
