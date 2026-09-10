@@ -4,7 +4,7 @@
 
 Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 
-![vifm](https://repo.x-cmd.io/vifm.svg)
+![vifm](https://repo.x-cmd.io/vifm.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,21 @@ x install vifm
 - **最新版本**: `v0.14.4` (2026-05-31)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-05-31T12:27:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [vifm-0.14.4.tar.bz2](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2) | 1.7 MiB | `other` |
+| [vifm-0.14.4.tar.bz2.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2.asc) | 870 B | `other` |
+| [vifm-v0.14.4-x86_64.AppImage](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage) | 1.9 MiB | `other` |
+| [vifm-v0.14.4-x86_64.AppImage.zsync](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage.zsync) | 5.8 KiB | `other` |
+| [vifm-w32-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w32-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-w32-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip) | 1.4 MiB | `other` |
+| [vifm-w32-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-w64-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w64-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip.asc) | 870 B | `other` |
 
 ## 流行度
 
@@ -72,4 +86,4 @@ vifm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:17:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:05:53Z._

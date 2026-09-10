@@ -23,7 +23,21 @@ x install vifm
 - **Latest**: `v0.14.4` (2026-05-31)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 10
-- **Published**: 2026-05-31T12:27:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [vifm-0.14.4.tar.bz2](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2) | 1.7 MiB | `other` |
+| [vifm-0.14.4.tar.bz2.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2.asc) | 870 B | `other` |
+| [vifm-v0.14.4-x86_64.AppImage](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage) | 1.9 MiB | `other` |
+| [vifm-v0.14.4-x86_64.AppImage.zsync](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage.zsync) | 5.8 KiB | `other` |
+| [vifm-w32-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w32-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-w32-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip) | 1.4 MiB | `other` |
+| [vifm-w32-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-w64-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w64-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip.asc) | 870 B | `other` |
 
 ## Popularity
 
@@ -68,8 +82,8 @@ Lowest-scoring checks:
 Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vifm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/vifm.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/vifm.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:17:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:05:53Z._
