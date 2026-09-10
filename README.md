@@ -12,50 +12,7 @@ Vifm is a file manager with curses interface, which provides Vim-like environmen
 x install vifm
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/vifm/vifm>
-- **Homepage**: <https://vifm.info>
-- **License**: GPL-2.0
-
-## Release
-
-- **Latest**: `v0.14.4` (2026-05-31)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 10
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [vifm-0.14.4.tar.bz2](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2) | 1.7 MiB | `other` |
-| [vifm-0.14.4.tar.bz2.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2.asc) | 870 B | `other` |
-| [vifm-v0.14.4-x86_64.AppImage](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage) | 1.9 MiB | `other` |
-| [vifm-v0.14.4-x86_64.AppImage.zsync](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage.zsync) | 5.8 KiB | `other` |
-| [vifm-w32-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip) | 1.5 MiB | `other` |
-| [vifm-w32-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip.asc) | 870 B | `other` |
-| [vifm-w32-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip) | 1.4 MiB | `other` |
-| [vifm-w32-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip.asc) | 870 B | `other` |
-| [vifm-w64-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip) | 1.5 MiB | `other` |
-| [vifm-w64-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip.asc) | 870 B | `other` |
-
-## Popularity
-
-- **Stars**: 3,264 · **Forks**: 146 · **Open issues**: 1,020 · **Contributors**: 71
-
-## Totals (cumulative)
-
-- **Releases**: 35 · **Merged PRs**: 99 · **Open PRs**: 2 · **Closed issues**: 879 · **Open issues**: 141 · **Commits**: 13895
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 20 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 2 | 2 | 70 |
-| 360d | 2025-09-15 | 1 | 12 | 2 | 26 | 19 | 295 |
-
-## Code size
+## Code insight
 
 Total: **212,681** lines of code across **924** files in the top 5 languages.
 
@@ -77,6 +34,71 @@ Lowest-scoring checks:
 - **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Source
+
+- **Upstream**: <https://github.com/vifm/vifm>
+- **Homepage**: <https://vifm.info>
+- **License**: GPL-2.0
+
+## Release
+
+- **Latest**: `v0.14.4` (2026-05-31)
+- **Last commit**: 2026-09-07
+- **Assets in release**: 10
+
+## Popularity
+
+- **Stars**: 3,264 · **Forks**: 146 · **Open issues**: 1,020 · **Contributors**: 71
+
+## Totals (cumulative)
+
+- **Releases**: 35 · **Merged PRs**: 99 · **Open PRs**: 2 · **Closed issues**: 879 · **Open issues**: 141 · **Commits**: 13895
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 20 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 1 | 1 | 52 |
+| 90d | 2026-06-12 | 0 | 1 | 0 | 2 | 2 | 70 |
+| last180d | 2026-03-14 | 1 | 6 | 2 | 14 | 6 | 195 |
+| 360d | 2025-09-15 | 1 | 12 | 2 | 26 | 19 | 295 |
+| last720d | 2024-09-20 | 6 | 16 | 2 | 85 | 36 | 675 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [vifm-0.14.4.tar.bz2](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2) | 1.7 MiB | `other` |
+| [vifm-0.14.4.tar.bz2.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2.asc) | 870 B | `other` |
+| [vifm-v0.14.4-x86_64.AppImage](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage) | 1.9 MiB | `other` |
+| [vifm-v0.14.4-x86_64.AppImage.zsync](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage.zsync) | 5.8 KiB | `other` |
+| [vifm-w32-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w32-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-w32-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip) | 1.4 MiB | `other` |
+| [vifm-w32-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-w64-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w64-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip.asc) | 870 B | `other` |
+
+## Distribution status
+
+Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **41** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.14.4` | ✅ latest |
+| Debian 14 | `0.14.4` | ✅ latest |
+| Debian 13 | `0.14` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
+| Arch | `0.14.4` | ✅ latest |
+| Homebrew | `0.14.4` | ✅ latest |
+| Fedora rawhide | `0.14.3` | ⚠️ outdated |
+| Nix unstable | `0.14.4` | ✅ latest |
+| Void | `0.14.4` | ✅ latest |
+| Alpine edge | `0.14.4` | ✅ latest |
+| openSUSE Tumbleweed | `0.14.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vifm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:05:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:43:30Z._
