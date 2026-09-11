@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1940872,
       "digest": "sha256:c8568514e0bf276c2031a381ed7a2c48312deb29c528575060c7cd1da40d99c5",
-      "download_count": 336,
+      "download_count": 337,
       "created_at": "2026-05-30T16:38:09Z",
       "updated_at": "2026-05-30T16:38:11Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1585494,
       "digest": "sha256:d0c8a8a17728c84405f0db61e69946ccf9ae7df63828583539c9f993bf962a23",
-      "download_count": 567,
+      "download_count": 569,
       "created_at": "2026-05-30T16:38:06Z",
       "updated_at": "2026-05-30T16:38:08Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip"
