@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,264 · **Forks**: 146 · **Open issues**: 1,020 · **Contributors**: 71
+- **Stars**: 3,264 · **Forks**: 146 · **Open issues**: 1,019 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 99 · **Open PRs**: 2 · **Closed issues**: 879 · **Open issues**: 141 · **Commits**: 13895
+- **Releases**: 35 · **Merged PRs**: 99 · **Open PRs**: 2 · **Closed issues**: 878 · **Open issues**: 141 · **Commits**: 13895
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 20 |
-| last60d | 2026-07-12 | 0 | 1 | 0 | 1 | 1 | 52 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 2 | 2 | 70 |
-| last180d | 2026-03-14 | 1 | 6 | 2 | 14 | 6 | 195 |
-| 360d | 2025-09-15 | 1 | 12 | 2 | 26 | 19 | 295 |
-| last720d | 2024-09-20 | 6 | 16 | 2 | 85 | 36 | 675 |
+| 30d | 2026-08-12 | 0 | 1 | 0 | 0 | 0 | 20 |
+| last60d | 2026-07-13 | 0 | 1 | 0 | 1 | 1 | 52 |
+| 90d | 2026-06-13 | 0 | 1 | 0 | 2 | 2 | 70 |
+| last180d | 2026-03-15 | 1 | 6 | 2 | 14 | 6 | 195 |
+| 360d | 2025-09-16 | 1 | 12 | 2 | 26 | 19 | 295 |
+| last720d | 2024-09-21 | 6 | 16 | 2 | 85 | 36 | 675 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:20:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:13:09Z._
