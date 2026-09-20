@@ -4,7 +4,7 @@
 
 Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 
-![vifm](https://repo.x-cmd.io/vifm.svg)
+[![x-cmd/install — vifm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vifm.svg)](https://x-cmd.com/install/vifm)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,268 · **Forks**: 146 · **Open issues**: 1,022 · **Contributors**: 71
+- **Stars**: 3,271 · **Forks**: 146 · **Open issues**: 1,022 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 0 | 3 | 20 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 0 | 3 | 46 |
-| 90d | 2026-06-20 | 0 | 1 | 0 | 2 | 5 | 67 |
-| last180d | 2026-03-22 | 1 | 6 | 2 | 12 | 9 | 187 |
-| 360d | 2025-09-23 | 1 | 12 | 2 | 26 | 22 | 295 |
-| last720d | 2024-09-28 | 6 | 16 | 2 | 84 | 39 | 675 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 3 | 14 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 0 | 3 | 26 |
+| 90d | 2026-06-22 | 0 | 1 | 0 | 2 | 5 | 67 |
+| last180d | 2026-03-24 | 1 | 6 | 2 | 12 | 9 | 175 |
+| 360d | 2025-09-25 | 1 | 12 | 2 | 26 | 22 | 288 |
+| last720d | 2024-09-30 | 6 | 16 | 2 | 84 | 39 | 675 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:36:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:26:18Z._
