@@ -14,13 +14,13 @@ x install vifm
 
 ## Code insight
 
-Total: **212,681** lines of code across **924** files in the top 5 languages.
+Total: **212,839** lines of code across **924** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 172,108 | 16,656 | 34,034 | 652 |
+| C | 172,265 | 16,673 | 34,069 | 652 |
 | Bitbake | 17,135 | 0 | 5 | 1 |
-| CHeader | 12,474 | 12,025 | 5,525 | 243 |
+| CHeader | 12,475 | 12,026 | 5,526 | 243 |
 | Autoconf | 4,096 | 221 | 266 | 3 |
 | Lua | 1,865 | 296 | 338 | 25 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.4` (2026-05-31)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-10-01
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,279 · **Forks**: 146 · **Open issues**: 1,022 · **Contributors**: 70
+- **Stars**: 3,280 · **Forks**: 146 · **Open issues**: 1,022 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 99 · **Open PRs**: 2 · **Closed issues**: 878 · **Open issues**: 144 · **Commits**: 13895
+- **Releases**: 35 · **Merged PRs**: 99 · **Open PRs**: 2 · **Closed issues**: 879 · **Open issues**: 143 · **Commits**: 13900
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 1 | 0 | 0 | 3 | 7 |
-| last60d | 2026-08-02 | 0 | 1 | 0 | 0 | 3 | 26 |
-| 90d | 2026-07-03 | 0 | 1 | 0 | 1 | 5 | 67 |
-| last180d | 2026-04-04 | 1 | 5 | 2 | 5 | 7 | 170 |
-| 360d | 2025-10-06 | 1 | 12 | 2 | 25 | 22 | 287 |
-| last720d | 2024-10-11 | 6 | 16 | 2 | 81 | 38 | 660 |
+| 30d | 2026-09-02 | 0 | 1 | 0 | 0 | 3 | 12 |
+| last60d | 2026-08-03 | 0 | 1 | 0 | 0 | 3 | 31 |
+| 90d | 2026-07-04 | 0 | 1 | 0 | 1 | 5 | 72 |
+| last180d | 2026-04-05 | 1 | 5 | 2 | 5 | 7 | 175 |
+| 360d | 2025-10-07 | 1 | 12 | 2 | 25 | 22 | 292 |
+| last720d | 2024-10-12 | 6 | 16 | 2 | 82 | 37 | 665 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:19:18Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:56:57Z._
