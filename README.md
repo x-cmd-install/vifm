@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 1 | 0 | 3 | 5 |
-| last60d | 2026-08-16 | 0 | 1 | 1 | 0 | 5 | 25 |
-| 90d | 2026-07-17 | 0 | 1 | 1 | 0 | 6 | 52 |
-| last180d | 2026-04-18 | 1 | 4 | 3 | 5 | 8 | 147 |
-| 360d | 2025-10-20 | 1 | 12 | 3 | 25 | 24 | 288 |
-| last720d | 2024-10-25 | 6 | 16 | 3 | 82 | 37 | 640 |
+| 30d | 2026-09-16 | 0 | 0 | 1 | 0 | 2 | 5 |
+| last60d | 2026-08-17 | 0 | 1 | 1 | 0 | 5 | 25 |
+| 90d | 2026-07-18 | 0 | 1 | 1 | 0 | 6 | 52 |
+| last180d | 2026-04-19 | 1 | 4 | 3 | 5 | 7 | 147 |
+| 360d | 2025-10-21 | 1 | 12 | 3 | 25 | 24 | 288 |
+| last720d | 2024-10-26 | 6 | 16 | 3 | 82 | 37 | 636 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:06:37Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:56:48Z._
