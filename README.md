@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,277 · **Forks**: 147 · **Open issues**: 1,025 · **Contributors**: 70
+- **Stars**: 3,276 · **Forks**: 147 · **Open issues**: 1,025 · **Contributors**: 70
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 1 | 0 | 2 | 1 | 22 |
-| last60d | 2026-08-20 | 0 | 2 | 0 | 2 | 4 | 38 |
-| 90d | 2026-07-21 | 0 | 2 | 0 | 2 | 4 | 55 |
-| last180d | 2026-04-22 | 1 | 5 | 2 | 7 | 6 | 164 |
-| 360d | 2025-10-24 | 1 | 13 | 2 | 27 | 23 | 305 |
-| last720d | 2024-10-29 | 6 | 17 | 2 | 84 | 36 | 649 |
+| 30d | 2026-09-20 | 0 | 1 | 0 | 2 | 1 | 22 |
+| last60d | 2026-08-21 | 0 | 2 | 0 | 2 | 4 | 38 |
+| 90d | 2026-07-22 | 0 | 2 | 0 | 2 | 4 | 55 |
+| last180d | 2026-04-23 | 1 | 5 | 2 | 7 | 6 | 164 |
+| 360d | 2025-10-25 | 1 | 13 | 2 | 27 | 23 | 305 |
+| last720d | 2024-10-30 | 6 | 17 | 2 | 84 | 36 | 649 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:10:13Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:12:44Z._
