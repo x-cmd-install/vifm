@@ -42,43 +42,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.14.4` (2026-05-31)
+- **Latest**: `v0.14.5` (2026-10-20)
 - **Last commit**: 2026-10-17
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 3,276 · **Forks**: 147 · **Open issues**: 1,025 · **Contributors**: 70
+- **Stars**: 3,279 · **Forks**: 147 · **Open issues**: 1,026 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 882 · **Open issues**: 143 · **Commits**: 13917
+- **Releases**: 36 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 883 · **Open issues**: 143 · **Commits**: 13917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 1 | 0 | 2 | 1 | 22 |
-| last60d | 2026-08-21 | 0 | 2 | 0 | 2 | 4 | 38 |
-| 90d | 2026-07-22 | 0 | 2 | 0 | 2 | 4 | 55 |
-| last180d | 2026-04-23 | 1 | 5 | 2 | 7 | 6 | 164 |
-| 360d | 2025-10-25 | 1 | 13 | 2 | 27 | 23 | 305 |
-| last720d | 2024-10-30 | 6 | 17 | 2 | 84 | 36 | 649 |
+| 30d | 2026-09-21 | 1 | 1 | 0 | 3 | 1 | 22 |
+| last60d | 2026-08-22 | 1 | 2 | 0 | 3 | 4 | 38 |
+| 90d | 2026-07-23 | 1 | 2 | 0 | 3 | 4 | 55 |
+| last180d | 2026-04-24 | 2 | 5 | 1 | 8 | 6 | 164 |
+| 360d | 2025-10-26 | 2 | 13 | 2 | 28 | 23 | 305 |
+| last720d | 2024-10-31 | 7 | 17 | 2 | 85 | 36 | 644 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [vifm-0.14.4.tar.bz2](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2) | 1.7 MiB | `other` |
-| [vifm-0.14.4.tar.bz2.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-0.14.4.tar.bz2.asc) | 870 B | `other` |
-| [vifm-v0.14.4-x86_64.AppImage](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage) | 1.9 MiB | `other` |
-| [vifm-v0.14.4-x86_64.AppImage.zsync](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-v0.14.4-x86_64.AppImage.zsync) | 5.8 KiB | `other` |
-| [vifm-w32-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip) | 1.5 MiB | `other` |
-| [vifm-w32-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-0.14.4-binary.zip.asc) | 870 B | `other` |
-| [vifm-w32-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip) | 1.4 MiB | `other` |
-| [vifm-w32-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w32-se-0.14.4-binary.zip.asc) | 870 B | `other` |
-| [vifm-w64-se-0.14.4-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip) | 1.5 MiB | `other` |
-| [vifm-w64-se-0.14.4-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.4/vifm-w64-se-0.14.4-binary.zip.asc) | 870 B | `other` |
+| [vifm-0.14.5.tar.bz2](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-0.14.5.tar.bz2) | 1.7 MiB | `other` |
+| [vifm-0.14.5.tar.bz2.asc](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-0.14.5.tar.bz2.asc) | 870 B | `other` |
+| [vifm-v0.14.5-x86_64.AppImage](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-v0.14.5-x86_64.AppImage) | 2.4 MiB | `other` |
+| [vifm-v0.14.5-x86_64.AppImage.zsync](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-v0.14.5-x86_64.AppImage.zsync) | 7.5 KiB | `other` |
+| [vifm-w32-0.14.5-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w32-0.14.5-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w32-0.14.5-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w32-0.14.5-binary.zip.asc) | 870 B | `other` |
+| [vifm-w32-se-0.14.5-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w32-se-0.14.5-binary.zip) | 1.4 MiB | `other` |
+| [vifm-w32-se-0.14.5-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w32-se-0.14.5-binary.zip.asc) | 870 B | `other` |
+| [vifm-w64-se-0.14.5-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip) | 1.5 MiB | `other` |
+| [vifm-w64-se-0.14.5-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip.asc) | 870 B | `other` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:12:44Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:02:27Z._
