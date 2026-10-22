@@ -31,8 +31,8 @@ x install vifm
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install vifm
 
 ## 流行度
 
-- **Star**: 3,279 · **Fork**: 147 · **开放 issue**: 1,026 · **贡献者**: 70
+- **Star**: 3,280 · **Fork**: 147 · **开放 issue**: 1,026 · **贡献者**: 70
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install vifm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 1 | 0 | 3 | 1 | 22 |
-| last60d | 2026-08-22 | 1 | 2 | 0 | 3 | 4 | 38 |
-| 90d | 2026-07-23 | 1 | 2 | 0 | 3 | 4 | 55 |
-| last180d | 2026-04-24 | 2 | 5 | 1 | 8 | 6 | 164 |
-| 360d | 2025-10-26 | 2 | 13 | 2 | 28 | 23 | 305 |
-| last720d | 2024-10-31 | 7 | 17 | 2 | 85 | 36 | 644 |
+| 30d | 2026-09-22 | 1 | 1 | 0 | 3 | 1 | 22 |
+| last60d | 2026-08-23 | 1 | 2 | 0 | 3 | 4 | 38 |
+| 90d | 2026-07-24 | 1 | 2 | 0 | 3 | 4 | 55 |
+| last180d | 2026-04-25 | 2 | 5 | 1 | 8 | 6 | 164 |
+| 360d | 2025-10-27 | 2 | 13 | 2 | 27 | 23 | 305 |
+| last720d | 2024-11-01 | 7 | 17 | 2 | 85 | 36 | 644 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ vifm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:02:27Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:06:30Z._

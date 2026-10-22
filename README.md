@@ -31,8 +31,8 @@ Overall score: **4.1 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/27 approved changesets -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,279 · **Forks**: 147 · **Open issues**: 1,026 · **Contributors**: 70
+- **Stars**: 3,280 · **Forks**: 147 · **Open issues**: 1,026 · **Contributors**: 70
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 1 | 0 | 3 | 1 | 22 |
-| last60d | 2026-08-22 | 1 | 2 | 0 | 3 | 4 | 38 |
-| 90d | 2026-07-23 | 1 | 2 | 0 | 3 | 4 | 55 |
-| last180d | 2026-04-24 | 2 | 5 | 1 | 8 | 6 | 164 |
-| 360d | 2025-10-26 | 2 | 13 | 2 | 28 | 23 | 305 |
-| last720d | 2024-10-31 | 7 | 17 | 2 | 85 | 36 | 644 |
+| 30d | 2026-09-22 | 1 | 1 | 0 | 3 | 1 | 22 |
+| last60d | 2026-08-23 | 1 | 2 | 0 | 3 | 4 | 38 |
+| 90d | 2026-07-24 | 1 | 2 | 0 | 3 | 4 | 55 |
+| last180d | 2026-04-25 | 2 | 5 | 1 | 8 | 6 | 164 |
+| 360d | 2025-10-27 | 2 | 13 | 2 | 27 | 23 | 305 |
+| last720d | 2024-11-01 | 7 | 17 | 2 | 85 | 36 | 644 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:02:27Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:06:29Z._
