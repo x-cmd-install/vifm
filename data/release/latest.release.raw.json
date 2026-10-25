@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1782797,
       "digest": "sha256:5de33fd6637ce91cdce162358ec393f6fe5e9734deb1833ea16776d619960422",
-      "download_count": 72,
+      "download_count": 84,
       "created_at": "2026-10-20T15:26:38Z",
       "updated_at": "2026-10-20T15:26:40Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-0.14.5.tar.bz2"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:e8c894352e5aa302b4b6b3c600768ac0a703a0818a96e5e1ff6ff70d28916798",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-20T15:26:40Z",
       "updated_at": "2026-10-20T15:26:41Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-0.14.5.tar.bz2.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2537976,
       "digest": "sha256:b53f34e8baaa00e296284aa6d5c83338105b21c053057ea82b2263628848f540",
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2026-10-20T15:26:50Z",
       "updated_at": "2026-10-20T15:26:51Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-v0.14.5-x86_64.AppImage"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7666,
       "digest": "sha256:60d2ed007c0d78a7cff1d2a6c15f5ee246d8226c12ef76e02729d8f72c1980ca",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-20T15:26:52Z",
       "updated_at": "2026-10-20T15:26:53Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-v0.14.5-x86_64.AppImage.zsync"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1623050,
       "digest": "sha256:a3913ff4dd4f6cff5c4acaed1dd6a3ba53eb842adc8b71c4f63faabdebe21a0b",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-20T15:26:41Z",
       "updated_at": "2026-10-20T15:26:42Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w32-0.14.5-binary.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1588178,
       "digest": "sha256:b64ea794be769347f01a17359399fc3413a69b66192302e8fff017f1f2dbbc4f",
-      "download_count": 131,
+      "download_count": 139,
       "created_at": "2026-10-20T15:26:47Z",
       "updated_at": "2026-10-20T15:26:48Z",
       "browser_download_url": "https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip"
@@ -402,11 +402,11 @@
   "body": "Thanks for the bug reports.  This is another bugfix release for the v0.14.x series, done primarily to fix a [CVE](https://www.cve.org/CVERecord?id=CVE-2026-110237).  The other backported changes since v0.14.4 make documentation more complete and readable along with fixing various bugs.\r\n\r\nThe CVE may allow a local user of a Unix-like system to send commands to a Vifm instance of another user.  Making `$TMPDIR`, `$TEMP`, `$TEMPDIR` or `$TMP` point at a location that's writable only by the current user is enough to make it impossible, but it needs to be done outside of Vifm (i.e., don't put `let $TMPDIR = ...` to `vifmrc`, it won't have the desired effect).\r\n\r\n[More details](https://vifm.info/v0.14.5)\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/vifm/vifm/releases/418557406/reactions",
-    "total_count": 7,
+    "total_count": 8,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 7,
+    "hooray": 8,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
