@@ -48,7 +48,7 @@ x install vifm
 
 ## 流行度
 
-- **Star**: 3,281 · **Fork**: 147 · **开放 issue**: 1,026 · **贡献者**: 70
+- **Star**: 3,280 · **Fork**: 147 · **开放 issue**: 1,026 · **贡献者**: 70
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install vifm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 1 | 0 | 3 | 1 | 22 |
-| last60d | 2026-08-25 | 1 | 2 | 0 | 3 | 4 | 38 |
-| 90d | 2026-07-26 | 1 | 2 | 0 | 3 | 4 | 55 |
-| last180d | 2026-04-27 | 2 | 5 | 1 | 8 | 6 | 164 |
-| 360d | 2025-10-29 | 2 | 13 | 2 | 27 | 23 | 305 |
-| last720d | 2024-11-03 | 7 | 17 | 2 | 84 | 36 | 635 |
+| 30d | 2026-09-25 | 1 | 1 | 0 | 3 | 1 | 17 |
+| last60d | 2026-08-26 | 1 | 2 | 0 | 3 | 4 | 33 |
+| 90d | 2026-07-27 | 1 | 2 | 0 | 3 | 4 | 48 |
+| last180d | 2026-04-28 | 2 | 5 | 1 | 8 | 6 | 161 |
+| 360d | 2025-10-30 | 2 | 13 | 2 | 27 | 23 | 303 |
+| last720d | 2024-11-04 | 7 | 17 | 2 | 84 | 36 | 635 |
 
 ## Release 资产
 
@@ -82,7 +82,7 @@ x install vifm
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/vifm) 上共有 **142** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**119** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/vifm) 上共有 **142** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**118** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -94,7 +94,7 @@ x install vifm
 | Arch | `0.14.4` | ⚠️ outdated |
 | Homebrew | `0.14.5` | ✅ latest |
 | Fedora rawhide | `0.14.3` | ⚠️ outdated |
-| Nix unstable | `0.14.4` | ⚠️ outdated |
+| Nix unstable | `0.14.5` | ✅ latest |
 | Void | `0.14.4` | ⚠️ outdated |
 | Alpine edge | `0.14.5` | ✅ latest |
 | openSUSE Tumbleweed | `0.14.4` | ⚠️ outdated |
@@ -108,4 +108,4 @@ vifm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T04:58:21Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T05:03:29Z._
