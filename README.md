@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,281 · **Forks**: 147 · **Open issues**: 1,026 · **Contributors**: 70
+- **Stars**: 3,281 · **Forks**: 147 · **Open issues**: 1,027 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 883 · **Open issues**: 143 · **Commits**: 13922
+- **Releases**: 36 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 883 · **Open issues**: 144 · **Commits**: 13922
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 1 | 0 | 3 | 1 | 22 |
-| last60d | 2026-08-30 | 1 | 2 | 0 | 3 | 4 | 38 |
-| 90d | 2026-07-31 | 1 | 2 | 0 | 3 | 4 | 53 |
-| last180d | 2026-05-02 | 2 | 4 | 1 | 8 | 6 | 166 |
-| 360d | 2025-11-03 | 2 | 13 | 2 | 27 | 23 | 308 |
-| last720d | 2024-11-08 | 7 | 17 | 2 | 83 | 36 | 631 |
+| 30d | 2026-09-30 | 1 | 1 | 0 | 3 | 2 | 22 |
+| last60d | 2026-08-31 | 1 | 2 | 0 | 3 | 5 | 38 |
+| 90d | 2026-08-01 | 1 | 2 | 0 | 3 | 5 | 53 |
+| last180d | 2026-05-03 | 2 | 4 | 1 | 7 | 7 | 166 |
+| 360d | 2025-11-04 | 2 | 13 | 2 | 26 | 24 | 308 |
+| last720d | 2024-11-09 | 7 | 17 | 2 | 83 | 37 | 631 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **20** are ✅ on the latest upstream release, **114** are ⚠️ on an older version.
+Reported by **142** distros on [repology.org](https://repology.org/project/vifm). **20** are ✅ on the latest upstream release, **114** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:12:33Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:14:38Z._
