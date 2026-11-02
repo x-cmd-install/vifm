@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 1 | 0 | 3 | 2 | 15 |
-| last60d | 2026-09-02 | 1 | 2 | 0 | 3 | 5 | 27 |
-| 90d | 2026-08-03 | 1 | 2 | 0 | 3 | 5 | 47 |
-| last180d | 2026-05-05 | 2 | 4 | 1 | 7 | 7 | 147 |
-| 360d | 2025-11-06 | 2 | 13 | 2 | 26 | 24 | 308 |
-| last720d | 2024-11-11 | 7 | 17 | 2 | 82 | 37 | 626 |
+| 30d | 2026-10-03 | 1 | 1 | 0 | 3 | 2 | 15 |
+| last60d | 2026-09-03 | 1 | 2 | 0 | 3 | 5 | 27 |
+| 90d | 2026-08-04 | 1 | 2 | 0 | 3 | 5 | 47 |
+| last180d | 2026-05-06 | 2 | 4 | 1 | 7 | 7 | 147 |
+| 360d | 2025-11-07 | 2 | 13 | 2 | 26 | 24 | 308 |
+| last720d | 2024-11-12 | 7 | 17 | 2 | 82 | 37 | 626 |
 
 ## Release assets
 
@@ -82,12 +82,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **142** distros on [repology.org](https://repology.org/project/vifm). **20** are ✅ on the latest upstream release, **114** are ⚠️ on an older version.
+Reported by **142** distros on [repology.org](https://repology.org/project/vifm). **24** are ✅ on the latest upstream release, **110** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.14.5` | ✅ latest |
-| Debian 14 | `0.14.4` | ⚠️ outdated |
+| Debian 14 | `0.14.5` | ✅ latest |
 | Debian 13 | `0.14` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:27:29Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:29:56Z._
