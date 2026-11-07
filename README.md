@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 0 | 0 | 3 | 2 | 31 |
-| last60d | 2026-09-07 | 1 | 1 | 0 | 3 | 5 | 43 |
-| 90d | 2026-08-08 | 1 | 2 | 0 | 3 | 5 | 63 |
-| last180d | 2026-05-10 | 2 | 4 | 1 | 7 | 7 | 163 |
-| 360d | 2025-11-11 | 2 | 13 | 2 | 25 | 23 | 324 |
-| last720d | 2024-11-16 | 7 | 17 | 2 | 80 | 37 | 635 |
+| 30d | 2026-10-08 | 1 | 0 | 0 | 3 | 2 | 31 |
+| last60d | 2026-09-08 | 1 | 1 | 0 | 3 | 5 | 43 |
+| 90d | 2026-08-09 | 1 | 2 | 0 | 3 | 5 | 63 |
+| last180d | 2026-05-11 | 2 | 4 | 1 | 6 | 7 | 163 |
+| 360d | 2025-11-12 | 2 | 13 | 2 | 25 | 23 | 324 |
+| last720d | 2024-11-17 | 7 | 17 | 2 | 79 | 37 | 635 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Reported by **142** distros on [repology.org](https://repology.org/project/vifm)
 | Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
 | Arch | `0.14.4` | ⚠️ outdated |
-| Homebrew | `0.14.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.14.3` | ⚠️ outdated |
 | Nix unstable | `0.14.5` | ✅ latest |
 | Void | `0.14.4` | ⚠️ outdated |
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:04:14Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:26:39Z._
