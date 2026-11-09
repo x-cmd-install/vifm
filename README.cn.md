@@ -48,22 +48,22 @@ x install vifm
 
 ## 流行度
 
-- **Star**: 3,285 · **Fork**: 149 · **开放 issue**: 1,027 · **贡献者**: 70
+- **Star**: 3,285 · **Fork**: 149 · **开放 issue**: 1,028 · **贡献者**: 70
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 100 · **开放 PR**: 2 · **已关闭 issue**: 883 · **开放 issue**: 144 · **提交数**: 13938
+- **发布数**: 36 · **已合并 PR**: 100 · **开放 PR**: 2 · **已关闭 issue**: 883 · **开放 issue**: 145 · **提交数**: 13938
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 0 | 0 | 3 | 2 | 31 |
-| last60d | 2026-09-09 | 1 | 1 | 0 | 3 | 5 | 43 |
-| 90d | 2026-08-10 | 1 | 2 | 0 | 3 | 5 | 63 |
-| last180d | 2026-05-12 | 2 | 4 | 1 | 6 | 7 | 148 |
-| 360d | 2025-11-13 | 2 | 13 | 2 | 25 | 23 | 320 |
-| last720d | 2024-11-18 | 7 | 16 | 2 | 79 | 36 | 635 |
+| 30d | 2026-10-10 | 1 | 0 | 0 | 3 | 3 | 31 |
+| last60d | 2026-09-10 | 1 | 1 | 0 | 3 | 6 | 43 |
+| 90d | 2026-08-11 | 1 | 2 | 0 | 3 | 6 | 63 |
+| last180d | 2026-05-13 | 2 | 4 | 1 | 6 | 8 | 148 |
+| 360d | 2025-11-14 | 2 | 13 | 2 | 25 | 24 | 320 |
+| last720d | 2024-11-19 | 7 | 16 | 2 | 79 | 37 | 633 |
 
 ## Release 资产
 
@@ -82,7 +82,7 @@ x install vifm
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/vifm) 上共有 **142** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**109** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/vifm) 上共有 **143** 个发行版报告此项目。**29** 个 ✅ 已是最新上游版本，**106** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -92,10 +92,10 @@ x install vifm
 | Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
 | Arch | `0.14.4` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.14.5` | ✅ latest |
 | Fedora rawhide | `0.14.3` | ⚠️ outdated |
 | Nix unstable | `0.14.5` | ✅ latest |
-| Void | `0.14.4` | ⚠️ outdated |
+| Void | `0.14.5` | ✅ latest |
 | Alpine edge | `0.14.5` | ✅ latest |
 | openSUSE Tumbleweed | `0.14.5` | ✅ latest |
 
@@ -108,4 +108,4 @@ vifm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:27:11Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T06:56:58Z._
