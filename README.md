@@ -14,13 +14,13 @@ x install vifm
 
 ## Code insight
 
-Total: **213,515** lines of code across **925** files in the top 5 languages.
+Total: **213,596** lines of code across **925** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 172,582 | 16,711 | 34,129 | 653 |
+| C | 172,660 | 16,728 | 34,104 | 653 |
 | Bitbake | 17,474 | 0 | 5 | 1 |
-| CHeader | 12,494 | 12,048 | 5,534 | 243 |
+| CHeader | 12,496 | 12,052 | 5,535 | 243 |
 | Autoconf | 4,096 | 221 | 266 | 3 |
 | Lua | 1,865 | 296 | 338 | 25 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.5` (2026-10-20)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-10
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 883 · **Open issues**: 145 · **Commits**: 13938
+- **Releases**: 36 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 883 · **Open issues**: 145 · **Commits**: 13944
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 0 | 0 | 2 | 3 | 31 |
-| last60d | 2026-09-11 | 1 | 1 | 0 | 3 | 5 | 43 |
-| 90d | 2026-08-12 | 1 | 2 | 0 | 3 | 6 | 63 |
-| last180d | 2026-05-14 | 2 | 4 | 1 | 6 | 8 | 148 |
-| 360d | 2025-11-15 | 2 | 13 | 2 | 25 | 23 | 320 |
-| last720d | 2024-11-20 | 7 | 16 | 2 | 79 | 37 | 633 |
+| 30d | 2026-10-12 | 1 | 0 | 0 | 1 | 3 | 37 |
+| last60d | 2026-09-12 | 1 | 1 | 0 | 3 | 5 | 49 |
+| 90d | 2026-08-13 | 1 | 2 | 0 | 3 | 6 | 69 |
+| last180d | 2026-05-15 | 2 | 4 | 1 | 6 | 8 | 154 |
+| 360d | 2025-11-16 | 2 | 13 | 2 | 25 | 22 | 326 |
+| last720d | 2024-11-21 | 7 | 16 | 2 | 79 | 37 | 637 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **29** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
+Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **30** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:54:50Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:07:22Z._
