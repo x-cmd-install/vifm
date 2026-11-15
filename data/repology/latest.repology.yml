@@ -1,80 +1,30 @@
-- repo: stalix_dev
-  srcname: bin/vifm
-  binname: bin/vifm
-  visiblename: bin/vifm
+- repo: wikidata
+  srcname: Q28035406
+  visiblename: Vifm
+  version: "0.13"
+  origversion: null
+  status: outdated
+  summary: ncurses-based file manager with ideas from vi and mutt
+  licenses:
+    - GNU General Public License
+- repo: yacp
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
   version: 0.14.5
   origversion: null
   status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
+  summary: Ncurses based file manager with vi like keybindings
   categories:
-    - bin
-- repo: nix_stable_24_05
-  srcname: vifm
-  visiblename: vifm
-  version: "0.13"
-  origversion: null
-  status: outdated
-  summary: A vi-like file manager
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0
-- repo: nix_stable_24_11
-  srcname: vifm
-  visiblename: vifm
-  version: "0.13"
-  origversion: null
-  status: outdated
-  summary: Vi-like file manager
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0
-- repo: nix_stable_25_11
-  srcname: vifm
-  visiblename: vifm
-  version: 0.14.3
-  origversion: null
-  status: outdated
-  summary: Vi-like file manager
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: vifm
-  binname: vifm-bash-completion
-  visiblename: vifm-bash-completion
-  version: 0.12.1
-  origversion: 0.12.1-r1
-  status: outdated
-  summary: Bash completions for vifm
-  maintainers:
-    - mps@arvanta.net
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
-  subrepo: community
-  srcname: vifm
-  binname: vifm-fish-completion
-  visiblename: vifm-fish-completion
-  version: 0.12.1
-  origversion: 0.12.1-r1
-  status: outdated
-  summary: Fish completions for vifm
-  maintainers:
-    - mps@arvanta.net
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_17
+    - Utils
+- repo: alpine_3_18
   subrepo: community
   srcname: vifm
   binname: vifm
   visiblename: vifm
-  version: 0.12.1
-  origversion: 0.12.1-r1
+  version: "0.13"
+  origversion: 0.13-r0
   status: outdated
   summary: ncurses vi-like file manager
   maintainers:
@@ -107,13 +57,39 @@
     - mps@arvanta.net
   licenses:
     - GPL-2.0-or-later
-- repo: alpine_3_18
+- repo: alpine_3_17
+  subrepo: community
+  srcname: vifm
+  binname: vifm-fish-completion
+  visiblename: vifm-fish-completion
+  version: 0.12.1
+  origversion: 0.12.1-r1
+  status: outdated
+  summary: Fish completions for vifm
+  maintainers:
+    - mps@arvanta.net
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
+  subrepo: community
+  srcname: vifm
+  binname: vifm-bash-completion
+  visiblename: vifm-bash-completion
+  version: 0.12.1
+  origversion: 0.12.1-r1
+  status: outdated
+  summary: Bash completions for vifm
+  maintainers:
+    - mps@arvanta.net
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_17
   subrepo: community
   srcname: vifm
   binname: vifm
   visiblename: vifm
-  version: "0.13"
-  origversion: 0.13-r0
+  version: 0.12.1
+  origversion: 0.12.1-r1
   status: outdated
   summary: ncurses vi-like file manager
   maintainers:
@@ -877,15 +853,6 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: wikidata
-  srcname: Q28035406
-  visiblename: Vifm
-  version: "0.13"
-  origversion: null
-  status: outdated
-  summary: ncurses-based file manager with ideas from vi and mutt
-  licenses:
-    - GNU General Public License
 - repo: exherbo
   subrepo: marv
   srcname: app-misc/vifm
@@ -915,33 +882,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: vifm
-  binnames:
-    - vifm
-    - vifm-debuginfo
-    - vifm-debugsource
-  visiblename: vifm
-  version: "0.13"
-  origversion: 0.13-3.fc40
-  status: legacy
-  summary: Vifm is a file manager with curses interface
-  licenses:
-    - GPLv2+
-  categories:
-    - Unspecified
-- repo: nix_stable_25_05
-  srcname: vifm
-  visiblename: vifm
-  version: 0.14.2
-  origversion: null
-  status: outdated
-  summary: Vi-like file manager
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0
-- repo: fedora_40
   subrepo: updates
   srcname: vifm
   binnames:
@@ -955,6 +895,22 @@
   summary: Vifm is a file manager with curses interface
   licenses:
     - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: vifm
+  binnames:
+    - vifm
+    - vifm-debuginfo
+    - vifm-debugsource
+  visiblename: vifm
+  version: "0.13"
+  origversion: 0.13-3.fc40
+  status: legacy
+  summary: Vifm is a file manager with curses interface
+  licenses:
+    - GPLv2+
   categories:
     - Unspecified
 - repo: fedora_41
@@ -986,20 +942,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: updates
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: 0.14.3
-  origversion: 0.14.3-1.fc42
-  status: outdated
-  summary: Vifm is a file manager with curses interface
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: release
   srcname: vifm
   binnames:
@@ -1008,6 +950,20 @@
   version: "0.14"
   origversion: 0.14-1.fc42
   status: legacy
+  summary: Vifm is a file manager with curses interface
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: 0.14.3
+  origversion: 0.14.3-1.fc42
+  status: outdated
   summary: Vifm is a file manager with curses interface
   licenses:
     - GPL-2.0-or-later
@@ -1067,6 +1023,18 @@
     - nivit@freebsd.org
   categories:
     - misc
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: vifm
+  visiblename: vifm
+  version: "0.13"
+  origversion: 0.13-bp156.1.5
+  status: outdated
+  summary: Ncurses based file manager with vi like keybindings
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Productivity/File utilities
 - repo: gentoo
   srcname: app-misc/vifm
   visiblename: app-misc/vifm
@@ -1246,17 +1214,50 @@
   summary: Ncurses based file manager with vi like keybindings
   licenses:
     - spdx:GPL-2.0-or-later
-- repo: yacp
+- repo: nix_stable_24_05
   srcname: vifm
-  binnames:
-    - vifm
   visiblename: vifm
-  version: 0.14.5
+  version: "0.13"
   origversion: null
-  status: newest
-  summary: Ncurses based file manager with vi like keybindings
-  categories:
-    - Utils
+  status: outdated
+  summary: A vi-like file manager
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0
+- repo: nix_stable_24_11
+  srcname: vifm
+  visiblename: vifm
+  version: "0.13"
+  origversion: null
+  status: outdated
+  summary: Vi-like file manager
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0
+- repo: nix_stable_25_05
+  srcname: vifm
+  visiblename: vifm
+  version: 0.14.2
+  origversion: null
+  status: outdated
+  summary: Vi-like file manager
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0
+- repo: nix_stable_25_11
+  srcname: vifm
+  visiblename: vifm
+  version: 0.14.3
+  origversion: null
+  status: outdated
+  summary: Vi-like file manager
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0
 - repo: nix_stable_26_05
   srcname: vifm
   visiblename: vifm
@@ -1335,18 +1336,6 @@
     - GPL-2.0-or-later
   categories:
     - Productivity/File utilities
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: vifm
-  visiblename: vifm
-  version: "0.13"
-  origversion: 0.13-bp156.1.5
-  status: outdated
-  summary: Ncurses based file manager with vi like keybindings
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Productivity/File utilities
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: vifm
@@ -1388,7 +1377,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: vifm
   binnames:
     - vifm
@@ -1401,7 +1390,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: vifm
   binnames:
     - vifm
@@ -1441,9 +1430,9 @@
   srcname: sysutils/vifm
   binname: vifm
   visiblename: sysutils/vifm
-  version: 0.14.3
+  version: 0.14.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Curses based file manager with vi like keybindings
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -1599,6 +1588,17 @@
   categories:
     - debug
 - repo: stalix
+  srcname: bin/vifm
+  binname: bin/vifm
+  visiblename: bin/vifm
+  version: 0.14.5
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
   srcname: bin/vifm
   binname: bin/vifm
   visiblename: bin/vifm
