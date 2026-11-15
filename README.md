@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,287 · **Forks**: 150 · **Open issues**: 1,029 · **Contributors**: 70
+- **Stars**: 3,289 · **Forks**: 150 · **Open issues**: 1,029 · **Contributors**: 70
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 0 | 1 | 1 | 4 | 37 |
-| last60d | 2026-09-15 | 1 | 1 | 1 | 3 | 5 | 49 |
-| 90d | 2026-08-16 | 1 | 2 | 1 | 3 | 7 | 69 |
-| last180d | 2026-05-18 | 2 | 3 | 2 | 5 | 9 | 154 |
-| 360d | 2025-11-19 | 2 | 13 | 3 | 24 | 23 | 326 |
-| last720d | 2024-11-24 | 7 | 16 | 3 | 75 | 38 | 637 |
+| 30d | 2026-10-16 | 1 | 0 | 1 | 1 | 4 | 25 |
+| last60d | 2026-09-16 | 1 | 1 | 1 | 3 | 4 | 49 |
+| 90d | 2026-08-17 | 1 | 2 | 1 | 3 | 7 | 69 |
+| last180d | 2026-05-19 | 2 | 3 | 2 | 5 | 9 | 148 |
+| 360d | 2025-11-20 | 2 | 12 | 3 | 23 | 23 | 320 |
+| last720d | 2024-11-25 | 7 | 16 | 3 | 75 | 37 | 637 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **31** are ✅ on the latest upstream release, **104** are ⚠️ on an older version.
+Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **32** are ✅ on the latest upstream release, **103** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:05:35Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:13:43Z._
