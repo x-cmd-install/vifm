@@ -1,36 +1,3 @@
-- repo: wikidata
-  srcname: Q28035406
-  visiblename: Vifm
-  version: "0.13"
-  origversion: null
-  status: outdated
-  summary: ncurses-based file manager with ideas from vi and mutt
-  licenses:
-    - GNU General Public License
-- repo: yacp
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: 0.14.5
-  origversion: null
-  status: newest
-  summary: Ncurses based file manager with vi like keybindings
-  categories:
-    - Utils
-- repo: alpine_3_18
-  subrepo: community
-  srcname: vifm
-  binname: vifm
-  visiblename: vifm
-  version: "0.13"
-  origversion: 0.13-r0
-  status: outdated
-  summary: ncurses vi-like file manager
-  maintainers:
-    - mps@arvanta.net
-  licenses:
-    - GPL-2.0-or-later
 - repo: alpine_3_17
   subrepo: community
   srcname: vifm
@@ -90,6 +57,19 @@
   visiblename: vifm
   version: 0.12.1
   origversion: 0.12.1-r1
+  status: outdated
+  summary: ncurses vi-like file manager
+  maintainers:
+    - mps@arvanta.net
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: community
+  srcname: vifm
+  binname: vifm
+  visiblename: vifm
+  version: "0.13"
+  origversion: 0.13-r0
   status: outdated
   summary: ncurses vi-like file manager
   maintainers:
@@ -226,6 +206,13 @@
     - mps@arvanta.net
   licenses:
     - GPL-2.0-or-later
+- repo: chocolatey
+  binname: vifm
+  visiblename: vifm
+  version: 0.14.5
+  origversion: null
+  status: newest
+  summary: Vifm is a curses based vi[m] like file manager extended with some useful ideas from mutt.
 - repo: alpine_3_20
   subrepo: community
   srcname: vifm
@@ -670,13 +657,6 @@
   summary: A file manager with curses interface, which provides Vi[m]-like environment
   licenses:
     - GPL-2.0-or-later
-- repo: chocolatey
-  binname: vifm
-  visiblename: vifm
-  version: "0.11"
-  origversion: null
-  status: outdated
-  summary: Vifm is a curses based vi[m] like file manager extended with some useful ideas from mutt.
 - repo: chromebrew
   srcname: vifm
   visiblename: vifm
@@ -942,20 +922,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.14"
-  origversion: 0.14-1.fc42
-  status: legacy
-  summary: Vifm is a file manager with curses interface
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: vifm
   binnames:
@@ -964,6 +930,20 @@
   version: 0.14.3
   origversion: 0.14.3-1.fc42
   status: outdated
+  summary: Vifm is a file manager with curses interface
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.14"
+  origversion: 0.14-1.fc42
+  status: legacy
   summary: Vifm is a file manager with curses interface
   licenses:
     - GPL-2.0-or-later
@@ -1023,18 +1003,6 @@
     - nivit@freebsd.org
   categories:
     - misc
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: vifm
-  visiblename: vifm
-  version: "0.13"
-  origversion: 0.13-bp156.1.5
-  status: outdated
-  summary: Ncurses based file manager with vi like keybindings
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Productivity/File utilities
 - repo: gentoo
   srcname: app-misc/vifm
   visiblename: app-misc/vifm
@@ -1336,6 +1304,18 @@
     - GPL-2.0-or-later
   categories:
     - Productivity/File utilities
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: vifm
+  visiblename: vifm
+  version: "0.13"
+  origversion: 0.13-bp156.1.5
+  status: outdated
+  summary: Ncurses based file manager with vi like keybindings
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Productivity/File utilities
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: vifm
@@ -1438,90 +1418,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - sysutils
-- repo: pld
-  srcname: vifm
-  visiblename: vifm
-  version: 0.14.5
-  origversion: 0.14.5-1
-  status: newest
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.10"
-  origversion: 0.10-1
-  status: outdated
-  maintainers:
-    - onovy@debian.org
-  categories:
-    - utils
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: 0.10.1
-  origversion: 0.10.1-4
-  status: outdated
-  maintainers:
-    - onovy@debian.org
-  categories:
-    - utils
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.14"
-  origversion: 0.14-3
-  status: outdated
-  maintainers:
-    - krekhov.dev@gmail.com
-  categories:
-    - utils
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.12"
-  origversion: 0.12-1
-  status: outdated
-  maintainers:
-    - onovy@debian.org
-  categories:
-    - utils
-- repo: raspbian_stable
-  subrepo: main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.14"
-  origversion: 0.14-3
-  status: outdated
-  maintainers:
-    - krekhov.dev@gmail.com
-  categories:
-    - utils
-- repo: raspbian_testing
-  subrepo: main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: 0.14.5
-  origversion: 0.14.5-1
-  status: newest
-  maintainers:
-    - krekhov.dev@gmail.com
-  categories:
-    - utils
 - repo: rosa_13
   subrepo: contrib/release
   srcname: vifm
@@ -1768,19 +1664,6 @@
   binnames:
     - vifm
   visiblename: vifm
-  version: 0.14.4
-  origversion: 0.14.4-1
-  status: outdated
-  maintainers:
-    - krekhov.dev@gmail.com
-  categories:
-    - universe/utils
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
   version: 0.14.5
   origversion: 0.14.5-1
   status: newest
@@ -1801,3 +1684,107 @@
     - humbertogilgomes@protonmail.com
   licenses:
     - GPL-2.0-or-later
+- repo: wikidata
+  srcname: Q28035406
+  visiblename: Vifm
+  version: "0.13"
+  origversion: null
+  status: outdated
+  summary: ncurses-based file manager with ideas from vi and mutt
+  licenses:
+    - GNU General Public License
+- repo: yacp
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: 0.14.5
+  origversion: null
+  status: newest
+  summary: Ncurses based file manager with vi like keybindings
+  categories:
+    - Utils
+- repo: pld
+  srcname: vifm
+  visiblename: vifm
+  version: 0.14.5
+  origversion: 0.14.5-1
+  status: newest
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.10"
+  origversion: 0.10-1
+  status: outdated
+  maintainers:
+    - onovy@debian.org
+  categories:
+    - utils
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: 0.10.1
+  origversion: 0.10.1-4
+  status: outdated
+  maintainers:
+    - onovy@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.14"
+  origversion: 0.14-3
+  status: outdated
+  maintainers:
+    - krekhov.dev@gmail.com
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.12"
+  origversion: 0.12-1
+  status: outdated
+  maintainers:
+    - onovy@debian.org
+  categories:
+    - utils
+- repo: raspbian_stable
+  subrepo: main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.14"
+  origversion: 0.14-3
+  status: outdated
+  maintainers:
+    - krekhov.dev@gmail.com
+  categories:
+    - utils
+- repo: raspbian_testing
+  subrepo: main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: 0.14.5
+  origversion: 0.14.5-1
+  status: newest
+  maintainers:
+    - krekhov.dev@gmail.com
+  categories:
+    - utils
