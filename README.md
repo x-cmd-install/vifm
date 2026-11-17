@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,288 · **Forks**: 150 · **Open issues**: 1,029 · **Contributors**: 71
+- **Stars**: 3,290 · **Forks**: 150 · **Open issues**: 1,029 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 1 | 0 | 1 | 3 | 32 |
-| last60d | 2026-09-17 | 1 | 2 | 0 | 4 | 3 | 56 |
-| 90d | 2026-08-18 | 1 | 3 | 0 | 4 | 6 | 76 |
-| last180d | 2026-05-20 | 2 | 4 | 1 | 6 | 8 | 155 |
-| 360d | 2025-11-21 | 2 | 13 | 2 | 24 | 22 | 327 |
-| last720d | 2024-11-26 | 7 | 17 | 2 | 76 | 36 | 644 |
+| 30d | 2026-10-18 | 1 | 1 | 0 | 1 | 3 | 32 |
+| last60d | 2026-09-18 | 1 | 2 | 0 | 4 | 3 | 56 |
+| 90d | 2026-08-19 | 1 | 3 | 0 | 4 | 6 | 76 |
+| last180d | 2026-05-21 | 2 | 4 | 1 | 6 | 8 | 155 |
+| 360d | 2025-11-22 | 2 | 13 | 2 | 24 | 22 | 327 |
+| last720d | 2024-11-27 | 7 | 17 | 2 | 76 | 36 | 636 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **142** distros on [repology.org](https://repology.org/project/vifm). **33** are ✅ on the latest upstream release, **101** are ⚠️ on an older version.
+Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **33** are ✅ on the latest upstream release, **102** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,7 +92,7 @@ Reported by **142** distros on [repology.org](https://repology.org/project/vifm)
 | Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
 | Arch | `0.14.4` | ⚠️ outdated |
-| Homebrew | `0.14.5` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.14.3` | ⚠️ outdated |
 | Nix unstable | `0.14.5` | ✅ latest |
 | Void | `0.14.5` | ✅ latest |
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:07:46Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:37:55Z._
