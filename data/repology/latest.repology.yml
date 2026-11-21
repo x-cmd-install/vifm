@@ -1,38 +1,3 @@
-- repo: deepin_unstable
-  subrepo: main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.10"
-  origversion: 0.10-1
-  status: outdated
-  maintainers:
-    - onovy@debian.org
-- repo: nix_stable_24_11
-  srcname: vifm
-  visiblename: vifm
-  version: "0.13"
-  origversion: null
-  status: outdated
-  summary: Vi-like file manager
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0
-- repo: deepin_25
-  subrepo: community
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.14"
-  origversion: 0.14-3
-  status: outdated
-  maintainers:
-    - krekhov.dev@gmail.com
-  categories:
-    - utils
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: vifm
@@ -59,6 +24,19 @@
     - krekhov.dev@gmail.com
   categories:
     - utils
+- repo: parrot
+  subrepo: parrot/main
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.14"
+  origversion: 0.14-3
+  status: outdated
+  maintainers:
+    - krekhov.dev@gmail.com
+  categories:
+    - utils
 - repo: alpine_3_17
   subrepo: community
   srcname: vifm
@@ -501,6 +479,19 @@
     - mps@arvanta.net
   licenses:
     - GPL-2.0-or-later
+- repo: deepin_25
+  subrepo: community
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: "0.14"
+  origversion: 0.14-3
+  status: outdated
+  maintainers:
+    - krekhov.dev@gmail.com
+  categories:
+    - utils
 - repo: alpine_3_23
   subrepo: community
   srcname: vifm
@@ -933,20 +924,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: updates
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: 0.14.3
-  origversion: 0.14.3-1.fc42
-  status: outdated
-  summary: Vifm is a file manager with curses interface
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: release
   srcname: vifm
   binnames:
@@ -955,6 +932,20 @@
   version: "0.14"
   origversion: 0.14-1.fc42
   status: legacy
+  summary: Vifm is a file manager with curses interface
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: 0.14.3
+  origversion: 0.14.3-1.fc42
+  status: outdated
   summary: Vifm is a file manager with curses interface
   licenses:
     - GPL-2.0-or-later
@@ -1123,16 +1114,6 @@
     - GPL-2
   categories:
     - app-misc
-- repo: slackbuilds
-  srcname: system/vifm
-  visiblename: system/vifm
-  version: 0.14.5
-  origversion: null
-  status: newest
-  maintainers:
-    - xaizek@posteo.net
-  categories:
-    - system
 - repo: liguros_develop
   srcname: app-misc/vifm
   visiblename: app-misc/vifm
@@ -1146,6 +1127,19 @@
     - GPL-2
   categories:
     - app-misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: vifm
+  binnames:
+    - vifm
+  visiblename: vifm
+  version: 0.14.3
+  origversion: 0.14.3-1
+  status: outdated
+  maintainers:
+    - krekhov.dev@gmail.com
+  categories:
+    - universe/utils
 - repo: liguros_develop
   srcname: app-misc/vifm
   visiblename: app-misc/vifm
@@ -1224,6 +1218,17 @@
   origversion: null
   status: outdated
   summary: A vi-like file manager
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0
+- repo: nix_stable_24_11
+  srcname: vifm
+  visiblename: vifm
+  version: "0.13"
+  origversion: null
+  status: outdated
+  summary: Vi-like file manager
   maintainers:
     - 7c6f434c@mail.ru
   licenses:
@@ -1378,19 +1383,6 @@
   status: outdated
   maintainers:
     - onovy@debian.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot/main
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: "0.14"
-  origversion: 0.14-3
-  status: outdated
-  maintainers:
-    - krekhov.dev@gmail.com
   categories:
     - utils
 - repo: parrot
@@ -1553,6 +1545,16 @@
   status: newest
   licenses:
     - GPL-2.0-only
+- repo: slackbuilds
+  srcname: system/vifm
+  visiblename: system/vifm
+  version: 0.14.5
+  origversion: null
+  status: newest
+  maintainers:
+    - xaizek@posteo.net
+  categories:
+    - system
 - repo: solus
   srcname: vifm
   binname: vifm
@@ -1725,19 +1727,6 @@
   visiblename: vifm
   version: "0.14"
   origversion: 0.14-3
-  status: outdated
-  maintainers:
-    - krekhov.dev@gmail.com
-  categories:
-    - universe/utils
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: vifm
-  binnames:
-    - vifm
-  visiblename: vifm
-  version: 0.14.3
-  origversion: 0.14.3-1
   status: outdated
   maintainers:
     - krekhov.dev@gmail.com
