@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 1 | 1 | 2 | 35 |
-| last60d | 2026-09-21 | 1 | 2 | 1 | 4 | 3 | 59 |
-| 90d | 2026-08-22 | 1 | 3 | 1 | 4 | 6 | 79 |
-| last180d | 2026-05-24 | 2 | 4 | 1 | 6 | 8 | 158 |
-| 360d | 2025-11-25 | 2 | 13 | 3 | 24 | 22 | 330 |
-| last720d | 2024-11-30 | 7 | 17 | 3 | 76 | 36 | 637 |
+| 30d | 2026-10-22 | 0 | 1 | 1 | 1 | 2 | 35 |
+| last60d | 2026-09-22 | 1 | 2 | 1 | 4 | 3 | 59 |
+| 90d | 2026-08-23 | 1 | 3 | 1 | 4 | 6 | 79 |
+| last180d | 2026-05-25 | 2 | 4 | 1 | 6 | 8 | 158 |
+| 360d | 2025-11-26 | 2 | 13 | 3 | 24 | 22 | 330 |
+| last720d | 2024-12-01 | 7 | 17 | 3 | 75 | 36 | 634 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **143** distros on [repology.org](https://repology.org/project/vifm). **33** are ✅ on the latest upstream release, **102** are ⚠️ on an older version.
+Reported by **142** distros on [repology.org](https://repology.org/project/vifm). **33** are ✅ on the latest upstream release, **101** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:17:54Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:18:37Z._
