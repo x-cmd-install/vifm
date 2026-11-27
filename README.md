@@ -14,13 +14,13 @@ x install vifm
 
 ## Code insight
 
-Total: **213,615** lines of code across **925** files in the top 5 languages.
+Total: **213,643** lines of code across **925** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 172,679 | 16,769 | 34,109 | 653 |
+| C | 172,707 | 16,779 | 34,113 | 653 |
 | Bitbake | 17,474 | 0 | 5 | 1 |
-| CHeader | 12,496 | 12,052 | 5,535 | 243 |
+| CHeader | 12,496 | 12,055 | 5,535 | 243 |
 | Autoconf | 4,096 | 221 | 266 | 3 |
 | Lua | 1,865 | 296 | 338 | 25 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.14.5` (2026-10-20)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-26
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 101 · **Open PRs**: 4 · **Closed issues**: 884 · **Open issues**: 145 · **Commits**: 13954
+- **Releases**: 36 · **Merged PRs**: 101 · **Open PRs**: 4 · **Closed issues**: 885 · **Open issues**: 144 · **Commits**: 13960
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 2 | 1 | 2 | 24 |
-| last60d | 2026-09-27 | 1 | 2 | 2 | 4 | 3 | 58 |
-| 90d | 2026-08-28 | 1 | 3 | 2 | 4 | 6 | 70 |
-| last180d | 2026-05-30 | 2 | 4 | 2 | 6 | 8 | 155 |
-| 360d | 2025-12-01 | 2 | 13 | 4 | 24 | 22 | 330 |
-| last720d | 2024-12-06 | 7 | 17 | 4 | 75 | 36 | 626 |
+| 30d | 2026-10-28 | 0 | 1 | 2 | 1 | 2 | 30 |
+| last60d | 2026-09-28 | 1 | 2 | 2 | 4 | 3 | 64 |
+| 90d | 2026-08-29 | 1 | 3 | 2 | 4 | 6 | 76 |
+| last180d | 2026-05-31 | 2 | 4 | 2 | 6 | 8 | 161 |
+| 360d | 2025-12-02 | 2 | 13 | 4 | 24 | 22 | 336 |
+| last720d | 2024-12-07 | 7 | 17 | 4 | 76 | 35 | 632 |
 
 ## Release assets
 
@@ -80,6 +80,25 @@ Lowest-scoring checks:
 | [vifm-w64-se-0.14.5-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip) | 1.5 MiB | `other` |
 | [vifm-w64-se-0.14.5-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip.asc) | 870 B | `other` |
 
+## Distribution status
+
+Reported by **141** distros on [repology.org](https://repology.org/project/vifm). **33** are ✅ on the latest upstream release, **100** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.14.5` | ✅ latest |
+| Debian 14 | `0.14.5` | ✅ latest |
+| Debian 13 | `0.14` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
+| Arch | `0.14.4` | ⚠️ outdated |
+| Homebrew | `0.14.5` | ✅ latest |
+| Fedora rawhide | `0.14.3` | ⚠️ outdated |
+| Nix unstable | `0.14.5` | ✅ latest |
+| Void | `0.14.5` | ✅ latest |
+| Alpine edge | `0.14.5` | ✅ latest |
+| openSUSE Tumbleweed | `0.14.5` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vifm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +108,4 @@ Install metadata for vifm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:53:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:42:09Z._
