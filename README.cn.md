@@ -14,11 +14,11 @@ x install vifm
 
 ## 代码洞察
 
-合计: **213,643** 行代码（覆盖前 5 种语言、共 **925** 个文件）。
+合计: **213,665** 行代码（覆盖前 5 种语言、共 **925** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 172,707 | 16,779 | 34,113 | 653 |
+| C | 172,729 | 16,791 | 34,118 | 653 |
 | Bitbake | 17,474 | 0 | 5 | 1 |
 | CHeader | 12,496 | 12,055 | 5,535 | 243 |
 | Autoconf | 4,096 | 221 | 266 | 3 |
@@ -43,27 +43,27 @@ x install vifm
 ## 发布
 
 - **最新版本**: `v0.14.5` (2026-10-20)
-- **最近提交**: 2026-11-26
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 3,287 · **Fork**: 150 · **开放 issue**: 1,029 · **贡献者**: 71
+- **Star**: 3,288 · **Fork**: 150 · **开放 issue**: 1,029 · **贡献者**: 71
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 101 · **开放 PR**: 4 · **已关闭 issue**: 885 · **开放 issue**: 144 · **提交数**: 13960
+- **发布数**: 36 · **已合并 PR**: 102 · **开放 PR**: 3 · **已关闭 issue**: 885 · **开放 issue**: 144 · **提交数**: 13963
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 2 | 1 | 2 | 30 |
-| last60d | 2026-09-28 | 1 | 2 | 2 | 4 | 3 | 64 |
-| 90d | 2026-08-29 | 1 | 3 | 2 | 4 | 6 | 76 |
-| last180d | 2026-05-31 | 2 | 4 | 2 | 6 | 8 | 161 |
-| 360d | 2025-12-02 | 2 | 13 | 4 | 24 | 22 | 336 |
-| last720d | 2024-12-07 | 7 | 17 | 4 | 76 | 35 | 632 |
+| 30d | 2026-10-29 | 0 | 2 | 1 | 0 | 2 | 33 |
+| last60d | 2026-09-29 | 1 | 3 | 1 | 4 | 3 | 67 |
+| 90d | 2026-08-30 | 1 | 4 | 1 | 4 | 6 | 79 |
+| last180d | 2026-06-01 | 1 | 5 | 1 | 6 | 8 | 164 |
+| 360d | 2025-12-03 | 2 | 14 | 3 | 24 | 22 | 339 |
+| last720d | 2024-12-08 | 7 | 18 | 3 | 76 | 35 | 635 |
 
 ## Release 资产
 
@@ -80,25 +80,6 @@ x install vifm
 | [vifm-w64-se-0.14.5-binary.zip](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip) | 1.5 MiB | `other` |
 | [vifm-w64-se-0.14.5-binary.zip.asc](https://github.com/vifm/vifm/releases/download/v0.14.5/vifm-w64-se-0.14.5-binary.zip.asc) | 870 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/vifm) 上共有 **141** 个发行版报告此项目。**33** 个 ✅ 已是最新上游版本，**100** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.14.5` | ✅ latest |
-| Debian 14 | `0.14.5` | ✅ latest |
-| Debian 13 | `0.14` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.14.3` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.12` | ⚠️ outdated |
-| Arch | `0.14.4` | ⚠️ outdated |
-| Homebrew | `0.14.5` | ✅ latest |
-| Fedora rawhide | `0.14.3` | ⚠️ outdated |
-| Nix unstable | `0.14.5` | ✅ latest |
-| Void | `0.14.5` | ✅ latest |
-| Alpine edge | `0.14.5` | ✅ latest |
-| openSUSE Tumbleweed | `0.14.5` | ✅ latest |
-
 ## 改进这些数据
 
 vifm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vifm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -108,4 +89,4 @@ vifm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:42:10Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:19:52Z._
